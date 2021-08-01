@@ -9,7 +9,7 @@
 
 I'm developing to fulfill my pleasure ~~and bank account~~.
 
-- 🚀 I'm learning to build machine softwares.
+- 🚀 I'm learning to build softwares.
 - 🧐 I'm also learning React, React Native and Nodejs.
 - 🌭 My dream: `while(!working){money++;}`
 
