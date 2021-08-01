@@ -10,7 +10,7 @@
 I'm developing to fulfill my pleasure ~~and bank account~~.
 
 - 🚀 I'm learning to build softwares.
-- 🧐 I'm also learning React, React Native and Nodejs.
+- 🧐 Current learings: React, React Native and Nodejs.
 - 🌭 My dream: `while(!working){money++;}`
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=kamal-hossain&show_icons=true&hide_title=true&hide_border=true)](https://kamal-hossain.github.io/kamal-hossain/)
